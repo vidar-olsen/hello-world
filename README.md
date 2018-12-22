@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hei alle sammen!
+Dette er en utrolig viktig test.
